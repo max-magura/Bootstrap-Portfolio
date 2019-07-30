@@ -91,6 +91,17 @@ p {
     color: #777777;
 }
 
+.img-max {
+    max-width: 300px;
+    width:100%;
+}
+
+#headshot {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
 footer {
     background: #666666;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
