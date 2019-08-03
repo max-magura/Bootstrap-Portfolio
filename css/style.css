@@ -112,9 +112,10 @@ body {
   }
   
 
-  .thumbnail h3 {
+  .image-text h3 {
       position: absolute;
       width: 100%;
+      object-fit: cover;
       bottom: 20px;
       padding: 15px;
       margin-bottom: 0;
@@ -128,6 +129,7 @@ body {
 
   .thumbnail {
       margin-top: 20px;
+      position: relative;
     
   }
   
