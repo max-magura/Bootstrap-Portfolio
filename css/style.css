@@ -79,6 +79,10 @@ body {
   .nav-link:hover {
       color: #38807C;
   }
+
+  .image-text h3:hover {
+    background: #38807C;
+}
   
   footer {
       padding-top: 5px;
